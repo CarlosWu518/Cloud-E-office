@@ -2,9 +2,11 @@ package org.carlos.server.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import org.carlos.server.pojo.Admin;
+import org.carlos.server.pojo.Menu;
 import org.carlos.server.pojo.RespBean;
 
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 /**
  * <p>
@@ -24,6 +26,5 @@ public interface IAdminService extends IService<Admin> {
      * 根据用户名获取用户
      * */
     Admin getAdminByUserName(String username);
-
 
 }
