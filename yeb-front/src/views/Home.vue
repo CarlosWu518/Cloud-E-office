@@ -4,7 +4,7 @@
       <el-header>Header</el-header>
       <el-container>
         <el-aside width="200px">
-          <el-menu router>
+          <el-menu>
             <el-submenu
               index="1"
               v-for="(item, index) in this.$router.options.routes"

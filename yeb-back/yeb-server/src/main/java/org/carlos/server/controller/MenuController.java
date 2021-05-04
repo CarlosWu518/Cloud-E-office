@@ -3,7 +3,6 @@ package org.carlos.server.controller;
 
 import io.swagger.annotations.ApiOperation;
 import org.carlos.server.pojo.Menu;
-import org.carlos.server.service.IAdminService;
 import org.carlos.server.service.IMenuService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

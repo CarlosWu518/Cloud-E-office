@@ -14,4 +14,15 @@
         id, name, nameZh
     </sql>
 
+    <!--根据用户id查询角色列表-->
+    <select id="getRoles" resultType="org.carlos.server.pojo.Role">
+        SELECT
+            r.`id`,
+            r.`name`,
+            r.`nameZh`
+        FROM
+            t_role AS r
+        LEFT JOIN t_admin_role AS ar ON r.`id` = ar.`rid`
+        WHERE ar.`adminId` = #{adminId}
+    </select>
 </mapper>

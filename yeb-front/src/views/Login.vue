@@ -55,7 +55,7 @@ export default {
       captchaUrl: "/captcha?time=" + new Date(),
       loginForm: {
         username: "admin",
-        password: "123",
+        password: "1123",
         code: "",
       },
       loading: false,

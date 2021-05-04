@@ -15,9 +15,5 @@ import java.util.List;
  * @since 2021-03-13
  */
 public interface AdminMapper extends BaseMapper<Admin> {
-    /**
-     * 通过用户id查询菜单列表
-     * @param id
-     * @return
-     */
+
 }

@@ -31,6 +31,7 @@ org\carlos\server\service\impl\MailLogServiceImpl.class
 org\carlos\server\controller\AppraiseController.class
 org\carlos\server\mapper\AdminRoleMapper.class
 org\carlos\server\pojo\EmployeeRemove.class
+org\carlos\server\config\security\SecurityConfig$1.class
 org\carlos\server\service\IOplogService.class
 org\carlos\server\controller\PositionController.class
 org\carlos\server\pojo\Role.class
@@ -38,10 +39,12 @@ org\carlos\server\service\IMenuService.class
 org\carlos\server\mapper\EmployeeEcMapper.class
 org\carlos\server\service\impl\SysMsgContentServiceImpl.class
 org\carlos\server\service\IAdminService.class
+org\carlos\server\config\RedisConfig.class
 org\carlos\server\service\impl\EmployeeRemoveServiceImpl.class
 org\carlos\server\service\impl\RoleServiceImpl.class
 org\carlos\server\service\impl\PoliticsStatusServiceImpl.class
 org\carlos\server\controller\AdminRoleController.class
+org\carlos\server\config\security\component\CustomUrlDecisionManager.class
 org\carlos\server\controller\AdminController.class
 org\carlos\server\pojo\Admin.class
 org\carlos\server\pojo\MailLog.class
@@ -50,6 +53,7 @@ org\carlos\server\service\impl\MenuRoleServiceImpl.class
 org\carlos\server\mapper\SysMsgContentMapper.class
 org\carlos\server\controller\HelloController.class
 org\carlos\server\mapper\MenuRoleMapper.class
+org\carlos\server\config\security\component\CustomFilter.class
 org\carlos\server\pojo\MenuRole.class
 org\carlos\server\config\security\component\JwtTokenUtil.class
 org\carlos\server\pojo\Menu.class

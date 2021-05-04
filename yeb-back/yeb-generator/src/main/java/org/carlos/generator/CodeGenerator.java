@@ -61,14 +61,14 @@ public class CodeGenerator {
         mpg.setGlobalConfig(gc);
         // 数据源配置
         DataSourceConfig dsc = new DataSourceConfig();
-        dsc.setUrl("jdbc:mysql://cdb-dowpk0o6.cd.tencentcdb.com:10157/yeb");
+        dsc.setUrl("jdbc:mysql://cdb-dowpk0o6.cd.tencentcdb.com:10157/oa");
         dsc.setDriverName("com.mysql.jdbc.Driver");
         dsc.setUsername("root");
         dsc.setPassword("qwertyuiop@38cn");
         mpg.setDataSource(dsc);
         // 包配置
         PackageConfig pc = new PackageConfig();
-        pc.setParent("org.carlos.server")
+        pc.setParent("com.oams")
                 .setEntity("pojo")
                 .setMapper("mapper")
                 .setService("service")

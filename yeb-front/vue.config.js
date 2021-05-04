@@ -21,3 +21,5 @@ module.exports = {
         proxy: proxyObj
     }
 }
+
+//通过proxy代理，通过node.js,根据proxyObj代理对象，请求转发到target目标地址去，就会去调用后端
