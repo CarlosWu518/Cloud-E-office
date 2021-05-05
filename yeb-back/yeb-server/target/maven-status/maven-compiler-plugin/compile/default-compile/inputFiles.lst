@@ -9,6 +9,7 @@ E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\IDepartmentService.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\IEmployeeService.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\impl\MenuServiceImpl.java
+E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\controller\PermissionController.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\controller\LoginController.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\impl\EmployeeRemoveServiceImpl.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\mapper\AdminMapper.java
@@ -22,6 +23,7 @@ E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\pojo\Salary.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\mapper\AppraiseMapper.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\controller\MenuController.java
+E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\exception\GlobalException.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\impl\NationServiceImpl.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\service\IJoblevelService.java
 E:\LearnWeb\VueProject\云E办\Cloud-E-office\yeb-back\yeb-server\src\main\java\org\carlos\server\mapper\SalaryMapper.java

@@ -23,80 +23,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a55809f2-5767-4e0a-a23d-78d251607e4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_annotation_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_base_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_spring_boot_starter_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_web_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/PermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/exception/GlobalException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/src/main/java/org/carlos/generator/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/src/main/java/org/carlos/generator/CodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/MenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/AdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/AdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/JoblevelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/JoblevelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/PositionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/controller/PositionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/MenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/MenuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/RoleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/MenuRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/mapper/MenuRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Joblevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Joblevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/pojo/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IMenuRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IMenuRoleService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IMenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/IMenuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/MenuRoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/MenuRoleServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/service/impl/MenuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/AdminMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/config/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/MenuRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/MenuRoleMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/mapper/MenuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/MenuRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/mapper/MenuRoleMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/yeb-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/yeb-server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeb-front/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../yeb-front/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeb-front/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../yeb-front/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeb-front/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../yeb-front/vue.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,6 +198,8 @@
       <workItem from="1619953842283" duration="2450000" />
       <workItem from="1620001936542" duration="9113000" />
       <workItem from="1620088243005" duration="13133000" />
+      <workItem from="1620194674572" duration="10354000" />
+      <workItem from="1620205208173" duration="3743000" />
     </task>
     <servers />
   </component>
@@ -275,10 +222,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1315" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1620118814454">
+    <state x="1315" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1620203983111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1315" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620118814454" />
+    <state x="1315" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620203983111" />
     <state x="696" y="422" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616247154299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -287,54 +234,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="809" y="248" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617878920197" />
-    <state width="1324" height="182" key="GridCell.Tab.0.bottom" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.0.bottom" timestamp="1620215953635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.0.center" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953635" />
+    <state width="1309" height="135" key="GridCell.Tab.0.center" timestamp="1620215953635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.0.left" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953635" />
+    <state width="1309" height="135" key="GridCell.Tab.0.left" timestamp="1620215953635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.0.right" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953635" />
+    <state width="1309" height="135" key="GridCell.Tab.0.right" timestamp="1620215953635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.1.bottom" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953635" />
+    <state width="1309" height="135" key="GridCell.Tab.1.bottom" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.1.center" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
+    <state width="1309" height="135" key="GridCell.Tab.1.center" timestamp="1620215953370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.1.left" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953370" />
+    <state width="1309" height="135" key="GridCell.Tab.1.left" timestamp="1620215953370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.1.right" timestamp="1620123733041">
+    <state width="1309" height="135" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953370" />
+    <state width="1309" height="135" key="GridCell.Tab.1.right" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733041" />
-    <state width="1324" height="182" key="GridCell.Tab.2.bottom" timestamp="1620123733042">
+    <state width="1309" height="135" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
+    <state width="1309" height="135" key="GridCell.Tab.2.bottom" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733042" />
-    <state width="1324" height="182" key="GridCell.Tab.2.center" timestamp="1620123733042">
+    <state width="1309" height="135" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
+    <state width="1309" height="135" key="GridCell.Tab.2.center" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733042" />
-    <state width="1324" height="182" key="GridCell.Tab.2.left" timestamp="1620123733042">
+    <state width="1309" height="135" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
+    <state width="1309" height="135" key="GridCell.Tab.2.left" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733042" />
-    <state width="1324" height="182" key="GridCell.Tab.2.right" timestamp="1620123733042">
+    <state width="1309" height="135" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
+    <state width="1309" height="135" key="GridCell.Tab.2.right" timestamp="1620215953371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1324" height="182" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620123733042" />
+    <state width="1309" height="135" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620215953371" />
     <state x="919" y="280" key="IDE.errors.dialog" timestamp="1615645684450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,36 +302,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="279" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615798987904" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/org/carlos/server/config/security/component/CustomUrlDecisionManager.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

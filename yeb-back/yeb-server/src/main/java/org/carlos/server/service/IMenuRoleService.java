@@ -2,6 +2,7 @@ package org.carlos.server.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import org.carlos.server.pojo.MenuRole;
+import org.carlos.server.pojo.RespBean;
 
 /**
  * <p>
@@ -13,4 +14,11 @@ import org.carlos.server.pojo.MenuRole;
  */
 public interface IMenuRoleService extends IService<MenuRole> {
 
+    /**
+     * 更新角色菜单
+     * @param rid
+     * @param mids
+     * @return
+     */
+    RespBean updateMenuRole(Integer rid, Integer[] mids);
 }

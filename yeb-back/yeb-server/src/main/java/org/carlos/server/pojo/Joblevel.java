@@ -3,6 +3,7 @@ package org.carlos.server.pojo;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
@@ -40,6 +41,7 @@ public class Joblevel implements Serializable {
     private String titleLevel;
 
     @ApiModelProperty(value = "创建时间")
+    @JsonFormat(pattern = "yyyy-MM-dd",timezone = "Asia/Shanghai")
     private LocalDateTime createDate;
 
     @ApiModelProperty(value = "是否启用")
